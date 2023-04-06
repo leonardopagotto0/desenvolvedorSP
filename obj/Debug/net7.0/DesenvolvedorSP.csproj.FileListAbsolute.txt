@@ -1,0 +1,17 @@
+D:\Files\Dev\C#\DesenvolvedorSP\bin\Debug\net7.0\DesenvolvedorSP.exe
+D:\Files\Dev\C#\DesenvolvedorSP\bin\Debug\net7.0\DesenvolvedorSP.deps.json
+D:\Files\Dev\C#\DesenvolvedorSP\bin\Debug\net7.0\DesenvolvedorSP.runtimeconfig.json
+D:\Files\Dev\C#\DesenvolvedorSP\bin\Debug\net7.0\DesenvolvedorSP.dll
+D:\Files\Dev\C#\DesenvolvedorSP\bin\Debug\net7.0\DesenvolvedorSP.pdb
+D:\Files\Dev\C#\DesenvolvedorSP\obj\Debug\net7.0\DesenvolvedorSP.csproj.AssemblyReference.cache
+D:\Files\Dev\C#\DesenvolvedorSP\obj\Debug\net7.0\DesenvolvedorSP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Files\Dev\C#\DesenvolvedorSP\obj\Debug\net7.0\DesenvolvedorSP.AssemblyInfoInputs.cache
+D:\Files\Dev\C#\DesenvolvedorSP\obj\Debug\net7.0\DesenvolvedorSP.AssemblyInfo.cs
+D:\Files\Dev\C#\DesenvolvedorSP\obj\Debug\net7.0\DesenvolvedorSP.csproj.CoreCompileInputs.cache
+D:\Files\Dev\C#\DesenvolvedorSP\obj\Debug\net7.0\DesenvolvedorSP.dll
+D:\Files\Dev\C#\DesenvolvedorSP\obj\Debug\net7.0\refint\DesenvolvedorSP.dll
+D:\Files\Dev\C#\DesenvolvedorSP\obj\Debug\net7.0\DesenvolvedorSP.pdb
+D:\Files\Dev\C#\DesenvolvedorSP\obj\Debug\net7.0\DesenvolvedorSP.genruntimeconfig.cache
+D:\Files\Dev\C#\DesenvolvedorSP\obj\Debug\net7.0\ref\DesenvolvedorSP.dll
+D:\Files\Dev\C#\DesenvolvedorSP\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\Files\Dev\C#\DesenvolvedorSP\obj\Debug\net7.0\DesenvolvedorSP.csproj.CopyComplete

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8mMW6ZPc+wEYEhltvgoF72RinLhn3FbflvjC3zwLWD29JPbakHjVN5DPqUXSe2V7hx+Bj1CltsJh+mftFWsKTw==",
+  "success": true,
+  "projectFilePath": "D:\\Files\\Dev\\C#\\DesenvolvedorSP\\DesenvolvedorSP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\leona\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
